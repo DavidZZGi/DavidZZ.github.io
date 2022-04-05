@@ -108,4 +108,13 @@ img.logo{
   
 
 }
-
+.negrita{
+  font-weight: bold;
+  font-size: medium;
+}
+.logo{
+  font-size: large;
+  font-weight: bolder;
+  color: red;
+  display: inline-block;
+}
