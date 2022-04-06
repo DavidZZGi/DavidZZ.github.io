@@ -14,16 +14,22 @@ body {
   height: 450px; }
 
 .carousel-image-1 {
-  background: url("../img/image1.jpg");
+  background: url("../photos/frutas/f1.jpg");
   background-size: cover; }
 
 .carousel-image-2 {
-  background: url("../img/image2.jpg");
+  background: url("../photos/frutas/f2.jpg");
   background-size: cover; }
 
 .carousel-image-3 {
-  background: url("../img/image3.jpg");
+  background: url("../photos/frutas/f3.jpg");
   background-size: cover; }
+  .carousel-image-4 {
+    background: url("../photos/frutas/f4.jpg");
+    background-size: cover; }
+    .carousel-image-5 {
+      background: url("../photos/frutas/f5.jpg");
+      background-size: cover; }
 
 .fa {
   font-size: 55px; }
