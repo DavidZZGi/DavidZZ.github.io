@@ -18,11 +18,11 @@ body {
   background-size: cover; }
 
 .carousel-image-2 {
-  background: url("../photos/frutas/f2.jpg");
+  background: url("../photos/negocioDigital.jpg");
   background-size: cover; }
 
 .carousel-image-3 {
-  background: url("../photos/frutas/f3.jpg");
+  background: url("../photos/frutas/f8.jpg");
   background-size: cover; }
   .carousel-image-4 {
     background: url("../photos/frutas/f4.jpg");
@@ -68,7 +68,7 @@ footer#main-footer {
   color: #fff; }
 
 #page-header {
-  height: 200px;
+  height: 300px;
   background: url("../img/image1.jpg");
   background-position: 0 -360px;
   background-attachment: fixed;
@@ -89,23 +89,23 @@ footer#main-footer {
   background: #333; }
 
 #floating{
-width: 80px;
-height: 80px;
+width: 170px;
+height: 70px;
 display: flex;
 align-items: center;
-justify-content: center;
+justify-content: left;
 text-decoration: none;
-border-radius: 60%;
+border-radius: 20%;
 color: #fff;
 font-size: 40px;
 box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.25) ;
 position: fixed;
 right: 20px;
-bottom: 20px;
+bottom: 10px;
 transition: background 0.25s;
-border: none;
-cursor: pointer;
-outline: blue;
+background-color: rgba(4, 250, 4, 0.63);
+position:fixed;
+
 
 }  
 img.logo{
@@ -123,4 +123,15 @@ img.logo{
   font-weight: bolder;
   color: red;
   display: inline-block;
+}
+.socialmedia{
+  display: inline-block;
+}
+.whats{
+  color: #fff;
+ 
+
+}
+.letrapequeña{
+  font-size: small;
 }
